@@ -1,0 +1,28 @@
+.pokecard-container {
+    background: #ccc;
+    list-style: none;
+    padding: 1em;
+    border-radius: 14px;
+  }
+  
+  .pokecard-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pokecard-container h4 {
+    color: blue;
+  }
+  
+  .pokecard-container .count {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background: black;
+    border-radius: 7px;
+  }
+  .pokecard-container .count p {
+    margin: 0;
+    padding: 0 0.5em;
+  }
+  
